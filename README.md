@@ -1,1 +1,1 @@
-# RudraKhare-Sales_Advertising_Machine_Learning-
+# Sales-Advertising-Machine-Learning-Model
